@@ -1,0 +1,54 @@
+#gif1 {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+.somethingred {
+  width: 500px;
+  margin: 30px;
+}
+
+.dinner {
+  width: 300px;
+  margin: 30px;
+}
+
+.chicken {
+  width: 200px;
+}
+
+.somethingblue {
+  width: 500px;
+  margin: 30px;
+}
+
+.cheesecake {
+  width: 500px;
+  margin: 30px;
+}
+
+.soup {
+  width: 500px;
+}
+
+.shoton {
+  width: 500px;
+}
+
+.exhibitions {
+  width: 500px;
+}
+
+@media screen and (max-width: 500px) {
+  .dinner,
+  .chicken,
+  .somethingred,
+  .somethingblue,
+  .cheesecake,
+  .soup,
+  .shoton,
+  .exhibitions {
+    width: 100%;
+    height: auto;
+  }
+}
