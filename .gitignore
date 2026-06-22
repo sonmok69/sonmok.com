@@ -1,1 +1,6 @@
 .DS_Store
+
+# Video files (large; keep out of git except the ones already in use below)
+*.mov
+*.mp4
+!birds/*.mov
