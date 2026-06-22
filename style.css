@@ -3,52 +3,80 @@
   margin-left: 30px;
 }
 
-.somethingred {
-  width: 500px;
-  margin: 30px;
+.ispy {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .dinner {
   width: 300px;
   margin: 30px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .chicken {
   width: 200px;
-}
-
-.somethingblue {
-  width: 500px;
-  margin: 30px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .cheesecake {
   width: 500px;
   margin: 30px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .soup {
   width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .shoton {
   width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .exhibitions {
   width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
-@media screen and (max-width: 500px) {
-  .dinner,
-  .chicken,
-  .somethingred,
-  .somethingblue,
-  .cheesecake,
-  .soup,
-  .shoton,
-  .exhibitions {
-    width: 100%;
-    height: auto;
-  }
+.lectures {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.onpeople {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+video.birds {
+  width: 500px;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.whatimade {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
