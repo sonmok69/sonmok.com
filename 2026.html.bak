@@ -7,6 +7,7 @@
   </head>
   <body>
     <ul>
+<<<<<<< HEAD
       <li>
         <a
           href="https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf"
@@ -65,6 +66,8 @@
         >
       </li>
       <li><a href="helen'sexile.html">helen's exile</a></li>
+=======
+>>>>>>> 825d2411a12e5d4d9fb8c8d537f1f6a1f1c8f4e8
       <li><a href="coldhandofyours.html">그대의 차가운 손 </a></li>
       <li><a href="truestories.html">true stories</a></li>
       <li>
@@ -78,11 +81,23 @@
       <li>
         <a href="2026youngwriters.html">2026 제 17회 젊은 작가상 수상작품집</a>
       </li>
+<<<<<<< HEAD
+=======
+      <li><a href="cansocialistsbehappy.html">can socialists be happy?</a></li>
+>>>>>>> 825d2411a12e5d4d9fb8c8d537f1f6a1f1c8f4e8
       <li>
         <a href="7trabajos.html">Santiago Sierra : 7 trabajos / 7 works</a>
       </li>
       <li><a href="radicalhelp.html">radical help</a></li>
+<<<<<<< HEAD
 
+=======
+      <li>
+        <a href="themasterstools.html"
+          >the master's tools will never dismantle the master's house</a
+        >
+      </li>
+>>>>>>> 825d2411a12e5d4d9fb8c8d537f1f6a1f1c8f4e8
       <li>
         <a href="bookofpleasure.html">book of pleasure... in plain english</a>
       </li>
